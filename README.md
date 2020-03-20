@@ -1,2 +1,2 @@
 # OSU - CS325 (Algorithms)
-## 104.85%
+## Assignments: 104.85%
